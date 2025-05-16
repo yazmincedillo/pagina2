@@ -1,6 +1,5 @@
 <html>
 <head>
-  <title>tabla</title>
 </head>
  <table border="1">
          <t1>
