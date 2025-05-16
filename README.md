@@ -22,7 +22,4 @@
               <td>jueves</td>
               <td>celda 11</td>
               <td>celda 12</td>
-         </tr>
-       </table>
-</body>
-</html>
+     
