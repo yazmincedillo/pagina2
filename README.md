@@ -16,7 +16,7 @@
               <td>miercoles</td>
               <td>celda 8</td>
               <td>celda 9</td>
-         
+         </tr>
          <tr>
               <td>jueves</td>
               <td>celda 11</td>
